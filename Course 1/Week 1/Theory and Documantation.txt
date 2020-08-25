@@ -1,0 +1,10 @@
+Lelu = Rectified Linear Unit
+RNN = Recurrent Neural Network
+CNN =  Convulation Neural Network
+
+
+Structured Data  is a database where data is stored in Table 
+Unstructured Data's example is sound, images and othes data 
+
+
+
